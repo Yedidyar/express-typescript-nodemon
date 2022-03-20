@@ -15,6 +15,6 @@ git clone --depth=1 https://github.com/yedidyar/express-typescript-nodemon.git <
 ```
 cd <project_name>
 npm install
-
-You are good to go😀
 ```
+
+You are good to go😀.
